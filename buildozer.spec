@@ -10,7 +10,7 @@ package.name = myapp
 package.domain = org.test
 
 # (str) Source code where the main.py live
-source.dir = "C:\Users\sawhn\OneDrive\Desktop\New folder (3)\nea.py"
+source.dir = "https://github.com/DevenSaw/folder3/blob/main/nea.py"
 
 # (list) Source files to include (let empty to include all the files)
 source.include_exts = 
